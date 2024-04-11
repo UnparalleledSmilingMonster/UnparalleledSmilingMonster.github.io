@@ -1,7 +1,6 @@
 # Portfolio
-[Portfolio](https://unparalleledsmilingmonster.github.io/Portfolio/)
 
-In Construction ! Come back later ! 
+May be unstable on smaller resolution screens.
 
 ## License
 
